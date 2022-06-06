@@ -1,0 +1,22 @@
+* {
+    text-align: left;
+    align-items: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?w=2000");
+    background-size: cover;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    margin-right: 200px;
+
+}
+
+body {
+    padding: 20px;
+}
